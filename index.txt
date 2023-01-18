@@ -1,0 +1,8 @@
+1 Libraries, Include files, Test suites, Sample Windows applications
+2 Font builders, Logo source, Mouse driver source, SYSTEM.ASM, Windows run-time
+3 CGA and Hercules display drivers source
+4 EGA high-res black&white driver sources
+5 EGA high-res color driver sources, VGA color driver sources
+6 Old-app screen grabber source, keyboard driver source, HP Plotter sources
+7 COMM.DRV, Laser Printer library, PostScript printer source
+8 PostScript printer source
